@@ -811,7 +811,7 @@ interceptor-speed-param
 interceptor-speed-param
 1.5
 3
-2.7
+2.5
 0.1
 1
 NIL
@@ -826,7 +826,7 @@ missile-speed
 missile-speed
 0.8
 2
-1.1
+1.3
 0.1
 1
 NIL
@@ -841,7 +841,7 @@ attack-frequency
 attack-frequency
 1
 20
-9.0
+14.0
 1
 1
 NIL
@@ -878,10 +878,10 @@ NIL
 HORIZONTAL
 
 MONITOR
-950
-340
-1067
-385
+499
+415
+616
+460
 Tasa de Éxito (%)
 success-rate
 1
@@ -889,10 +889,10 @@ success-rate
 11
 
 MONITOR
-950
-400
-1067
-445
+499
+475
+616
+520
 Amenazas Activas
 active-threats
 0
@@ -900,10 +900,10 @@ active-threats
 11
 
 MONITOR
-1080
-340
-1222
-385
+629
+415
+771
+460
 Interceptores en Vuelo
 interceptors-in-flight
 0
@@ -911,10 +911,10 @@ interceptors-in-flight
 11
 
 MONITOR
-1085
-400
-1242
-445
+635
+475
+792
+520
 Estaciones Operacionales
 stations-operational
 0
@@ -922,10 +922,10 @@ stations-operational
 11
 
 MONITOR
-950
-460
-1075
-505
+499
+535
+624
+580
 Total Interceptados
 total-intercepted
 17
@@ -933,16 +933,16 @@ total-intercepted
 11
 
 PLOT
-860
-190
-1265
-330
+46
+406
+451
+706
 Efectividad del Sistema
 Tiempo (ticks)
 Porcentaje (%)
 0.0
 1000.0
-0.0
+50.0
 100.0
 true
 false
